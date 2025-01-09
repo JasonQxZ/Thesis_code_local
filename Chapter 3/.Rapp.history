@@ -1,0 +1,6 @@
+load("/Users/mac/Library/CloudStorage/OneDrive-UniversityofOttawa/Research/Streaming/my_sen_res_k_ID.rds")
+load("/Users/mac/Library/CloudStorage/OneDrive-UniversityofOttawa/Research/Streaming/my_sen_res_s_CS.rds")
+load("/Users/mac/Library/CloudStorage/OneDrive-UniversityofOttawa/Research/Streaming/my_sen_res_s_ID.rds")
+load("/Users/mac/Library/CloudStorage/OneDrive-UniversityofOttawa/Research/Streaming/AR_TURE_Seed1_train_size1600_P6000_s=30_bino.rds")
+print(Resultult)
+print(Result)

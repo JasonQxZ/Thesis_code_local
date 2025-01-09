@@ -1,0 +1,10 @@
+"model_size"	"psr"	"ssr"	"time"
+"SIS"	20	0.6	0	0.07
+"Lasso"	11	1	1	0.03
+"abess"	20	1	1	0.02
+"SMLE_zero"	20	1	1	0.08
+"SMLE_Lasso"	20	1	1	0.09
+"Sbess_S1"	20	1	1	0.12
+"Sbess_S2"	20	1	1	0.07
+"Sbess_S3"	20	1	1	0.06
+"Sbess_S4"	20	1	1	0.05
